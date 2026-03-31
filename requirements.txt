@@ -1,0 +1,16 @@
+jupyter
+notebook
+ipykernel
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+pytesseract
+pdf2image
+easyocr
+boto3
+requests
+Pillow
+opencv-python-headless
+azure-cognitiveservices-vision-computervision
+msrest
